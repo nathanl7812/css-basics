@@ -39,3 +39,12 @@ code{
 .snippet{
     background:lightgray;
 }
+#font-practice{
+        font-style: italic;
+}
+a{
+    color: Green;
+}
+a:hover{
+    color:red;
+}
