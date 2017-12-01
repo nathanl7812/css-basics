@@ -41,10 +41,17 @@ code{
 }
 #font-practice{
         font-style: italic;
+        color:green;
 }
-a{
+a:link{
     color: Green;
+}
+a:visited{
+    color: black;
 }
 a:hover{
     color:red;
+}
+a:active{
+    color:blue;
 }
